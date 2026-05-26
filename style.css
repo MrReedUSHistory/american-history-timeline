@@ -11,3 +11,10 @@ h1 {
 li {
     margin-bottom: 10px;
 }
+
+.event-card {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
