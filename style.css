@@ -15,6 +15,11 @@ li {
 .event-card {
     background-color: white;
     padding: 20px;
-    margin-bottom: 20px;
+    margin-top: 20px;
     border-radius: 10px;
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.2);
+}
+
+.event-card:hover {
+    transform: scale(1.02);
 }
